@@ -2,9 +2,9 @@
 
 I am passionate about all thing security! 🔐 
 
-My academic projects details can be found in the My Projects repository.
+Checkout My Projects and other repositories here to know more about my work in Security and Software Engineering.
 
-Checkout my [LinkedIn profile](linkedin.com/in/namruth-reddy/) to know more about my professional work experience and education.
+[LinkedIn profile](https://www.linkedin.com/in/namruth-reddy/) for professional work experience and education.
 
 You can reach me on my email - namruth@outlook.com
 
