@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Namruth! @namruth
-- 👀 I’m interested in solving and learning about new challenges in cybersecurity 
-- 🌱 I’m a graduate student at Northeastern University, Boston
-- 💞️ I’m looking to collaborate on cybersecurity tools to make the world a safer place
-- 📫 You can reach me on reddynamruth@gmail.com
+👋 Hi, I’m Namruth!
+
+I am passionate about all thing security! 🔐 
+
+My academic projects details can be found in the My Projects repository.
+
+Checkout my [LinkedIn profile](linkedin.com/in/namruth-reddy/) to know more about my professional work experience and education.
+
+You can reach me on my email - namruth@outlook.com
 
 <!---
 namruth/namruth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
