@@ -2,7 +2,7 @@
 
 I am passionate about all thing security! 🔐 
 
-Checkout My Projects and other repositories here to know more about my work in Security and Software Engineering.
+Checkout [My Projects](https://github.com/namruth/My_Projects) and other repositories here to know more about my work in Security and Software Engineering.
 
 [LinkedIn profile](https://www.linkedin.com/in/namruth-reddy/) for professional work experience and education.
 
