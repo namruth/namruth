@@ -1,10 +1,10 @@
 👋 Hi, I’m Namruth!
 
-I am currently pursuing my Master's degree in Cybersecurity at [Northeastern University, Boston](https://www.northeastern.edu/)
+I am a Security Engineer at Nvidia.  I also completed my Master's degree in Cybersecurity at [Northeastern University, Boston](https://www.northeastern.edu/) in 2023.
 
-I a passionate about all thing security! 🔐 My interests include building tools, automating complex workflows, co-ordinating with teams across the organization to improve the overall security posture.  
+I am passionate about all things security! 🔐 My interests include building tools, automating complex workflows, and coordinating with teams across the organization to improve the overall security posture.  
 
-Checkout [My Projects](https://github.com/namruth/My_Projects) and other repositories here to know more about my work in Security and Software Engineering.
+Check out [My Projects](https://github.com/namruth/My_Projects) and other repositories here to know more about my work in Security and Software Engineering.
 
 [LinkedIn profile](https://www.linkedin.com/in/namruth-reddy/) for professional work experience and education.
 
